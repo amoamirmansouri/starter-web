@@ -1,9 +1,10 @@
-# Starter Web Repo
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## kop
 
-Sample website with plenty of files for demos
+offfff
 
 ## don't call my name agin
+
+## you girl you bich
