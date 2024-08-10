@@ -2,5 +2,5 @@
 *.zip
 koper.rtf
 log/
-
+.DS_Store
 index.html.orig
